@@ -1,0 +1,788 @@
+data,linia,zmiana,typ_przestoju,czas_min
+2025-10-01,Linia_A,Zmiana_1,Brak materiału,47
+2025-10-01,Linia_A,Zmiana_1,Awaria,12
+2025-10-01,Linia_A,Zmiana_2,Awaria,15
+2025-10-01,Linia_A,Zmiana_2,Brak materiału,15
+2025-10-01,Linia_A,Zmiana_3,Przezbrojenie,26
+2025-10-01,Linia_A,Zmiana_3,Awaria,57
+2025-10-01,Linia_B,Zmiana_3,Awaria,51
+2025-10-01,Linia_B,Zmiana_3,Awaria,55
+2025-10-01,Linia_C,Zmiana_1,Brak materiału,22
+2025-10-01,Linia_C,Zmiana_1,Awaria,8
+2025-10-01,Linia_C,Zmiana_3,Brak materiału,11
+2025-10-01,Linia_C,Zmiana_3,Brak materiału,48
+2025-10-02,Linia_A,Zmiana_1,Brak materiału,44
+2025-10-02,Linia_A,Zmiana_2,Awaria,46
+2025-10-02,Linia_A,Zmiana_3,Brak materiału,14
+2025-10-02,Linia_B,Zmiana_1,Przezbrojenie,44
+2025-10-02,Linia_B,Zmiana_1,Awaria,25
+2025-10-02,Linia_C,Zmiana_2,Awaria,15
+2025-10-02,Linia_C,Zmiana_2,Awaria,55
+2025-10-02,Linia_C,Zmiana_3,Awaria,9
+2025-10-02,Linia_C,Zmiana_3,Awaria,46
+2025-10-03,Linia_A,Zmiana_1,Brak materiału,37
+2025-10-03,Linia_A,Zmiana_2,Brak materiału,48
+2025-10-03,Linia_A,Zmiana_2,Awaria,44
+2025-10-03,Linia_B,Zmiana_1,Brak materiału,59
+2025-10-03,Linia_B,Zmiana_2,Awaria,30
+2025-10-03,Linia_B,Zmiana_2,Brak materiału,46
+2025-10-03,Linia_B,Zmiana_3,Brak materiału,53
+2025-10-03,Linia_B,Zmiana_3,Brak materiału,56
+2025-10-03,Linia_C,Zmiana_1,Brak materiału,49
+2025-10-03,Linia_C,Zmiana_1,Przezbrojenie,19
+2025-10-03,Linia_C,Zmiana_2,Awaria,55
+2025-10-03,Linia_C,Zmiana_2,Przezbrojenie,26
+2025-10-03,Linia_C,Zmiana_3,Brak materiału,57
+2025-10-04,Linia_A,Zmiana_1,Przezbrojenie,15
+2025-10-04,Linia_B,Zmiana_2,Awaria,58
+2025-10-04,Linia_B,Zmiana_2,Awaria,36
+2025-10-04,Linia_B,Zmiana_3,Brak materiału,53
+2025-10-04,Linia_C,Zmiana_2,Przezbrojenie,32
+2025-10-04,Linia_C,Zmiana_3,Przezbrojenie,6
+2025-10-04,Linia_C,Zmiana_3,Przezbrojenie,57
+2025-10-05,Linia_A,Zmiana_1,Awaria,8
+2025-10-05,Linia_A,Zmiana_1,Awaria,59
+2025-10-05,Linia_A,Zmiana_2,Przezbrojenie,42
+2025-10-05,Linia_A,Zmiana_2,Awaria,28
+2025-10-05,Linia_A,Zmiana_3,Awaria,52
+2025-10-05,Linia_A,Zmiana_3,Przezbrojenie,20
+2025-10-05,Linia_B,Zmiana_1,Awaria,20
+2025-10-05,Linia_B,Zmiana_2,Przezbrojenie,40
+2025-10-05,Linia_B,Zmiana_2,Przezbrojenie,23
+2025-10-05,Linia_B,Zmiana_3,Brak materiału,56
+2025-10-05,Linia_B,Zmiana_3,Przezbrojenie,45
+2025-10-05,Linia_C,Zmiana_2,Awaria,39
+2025-10-06,Linia_A,Zmiana_2,Brak materiału,52
+2025-10-06,Linia_A,Zmiana_2,Przezbrojenie,20
+2025-10-06,Linia_B,Zmiana_1,Brak materiału,44
+2025-10-06,Linia_B,Zmiana_2,Awaria,29
+2025-10-06,Linia_B,Zmiana_3,Przezbrojenie,22
+2025-10-07,Linia_A,Zmiana_1,Awaria,42
+2025-10-07,Linia_C,Zmiana_2,Brak materiału,29
+2025-10-07,Linia_C,Zmiana_3,Przezbrojenie,28
+2025-10-08,Linia_A,Zmiana_1,Brak materiału,46
+2025-10-08,Linia_A,Zmiana_1,Brak materiału,6
+2025-10-08,Linia_A,Zmiana_3,Przezbrojenie,54
+2025-10-08,Linia_A,Zmiana_3,Brak materiału,29
+2025-10-08,Linia_B,Zmiana_1,Awaria,40
+2025-10-08,Linia_B,Zmiana_1,Brak materiału,49
+2025-10-08,Linia_B,Zmiana_2,Awaria,16
+2025-10-08,Linia_B,Zmiana_3,Awaria,36
+2025-10-08,Linia_C,Zmiana_1,Brak materiału,26
+2025-10-08,Linia_C,Zmiana_1,Awaria,26
+2025-10-09,Linia_A,Zmiana_1,Przezbrojenie,51
+2025-10-09,Linia_A,Zmiana_2,Awaria,34
+2025-10-09,Linia_A,Zmiana_3,Awaria,32
+2025-10-09,Linia_A,Zmiana_3,Awaria,59
+2025-10-09,Linia_B,Zmiana_1,Przezbrojenie,27
+2025-10-09,Linia_C,Zmiana_1,Przezbrojenie,9
+2025-10-09,Linia_C,Zmiana_1,Przezbrojenie,26
+2025-10-09,Linia_C,Zmiana_2,Brak materiału,20
+2025-10-10,Linia_A,Zmiana_3,Przezbrojenie,14
+2025-10-10,Linia_A,Zmiana_3,Awaria,58
+2025-10-10,Linia_B,Zmiana_1,Przezbrojenie,14
+2025-10-10,Linia_B,Zmiana_1,Przezbrojenie,23
+2025-10-10,Linia_B,Zmiana_3,Awaria,6
+2025-10-10,Linia_B,Zmiana_3,Brak materiału,53
+2025-10-10,Linia_C,Zmiana_1,Przezbrojenie,39
+2025-10-10,Linia_C,Zmiana_2,Brak materiału,5
+2025-10-10,Linia_C,Zmiana_2,Brak materiału,37
+2025-10-11,Linia_A,Zmiana_3,Brak materiału,45
+2025-10-11,Linia_A,Zmiana_3,Awaria,11
+2025-10-11,Linia_B,Zmiana_2,Brak materiału,41
+2025-10-11,Linia_B,Zmiana_3,Brak materiału,52
+2025-10-11,Linia_B,Zmiana_3,Awaria,40
+2025-10-11,Linia_C,Zmiana_1,Brak materiału,36
+2025-10-11,Linia_C,Zmiana_3,Brak materiału,24
+2025-10-12,Linia_A,Zmiana_2,Awaria,35
+2025-10-12,Linia_A,Zmiana_3,Awaria,16
+2025-10-12,Linia_A,Zmiana_3,Przezbrojenie,29
+2025-10-12,Linia_B,Zmiana_2,Przezbrojenie,27
+2025-10-12,Linia_B,Zmiana_2,Przezbrojenie,33
+2025-10-12,Linia_C,Zmiana_1,Brak materiału,17
+2025-10-13,Linia_A,Zmiana_2,Brak materiału,23
+2025-10-13,Linia_A,Zmiana_2,Brak materiału,48
+2025-10-13,Linia_A,Zmiana_3,Awaria,7
+2025-10-13,Linia_A,Zmiana_3,Brak materiału,49
+2025-10-13,Linia_B,Zmiana_1,Przezbrojenie,24
+2025-10-13,Linia_B,Zmiana_2,Awaria,53
+2025-10-13,Linia_C,Zmiana_3,Awaria,51
+2025-10-14,Linia_A,Zmiana_2,Awaria,16
+2025-10-14,Linia_A,Zmiana_2,Przezbrojenie,14
+2025-10-14,Linia_B,Zmiana_1,Przezbrojenie,12
+2025-10-14,Linia_B,Zmiana_2,Przezbrojenie,58
+2025-10-14,Linia_B,Zmiana_2,Awaria,21
+2025-10-14,Linia_C,Zmiana_1,Awaria,22
+2025-10-14,Linia_C,Zmiana_2,Brak materiału,49
+2025-10-14,Linia_C,Zmiana_3,Brak materiału,5
+2025-10-15,Linia_A,Zmiana_1,Przezbrojenie,25
+2025-10-15,Linia_A,Zmiana_1,Awaria,30
+2025-10-15,Linia_B,Zmiana_3,Brak materiału,23
+2025-10-15,Linia_C,Zmiana_1,Przezbrojenie,5
+2025-10-15,Linia_C,Zmiana_3,Przezbrojenie,30
+2025-10-15,Linia_C,Zmiana_3,Brak materiału,38
+2025-10-16,Linia_A,Zmiana_3,Przezbrojenie,6
+2025-10-16,Linia_B,Zmiana_1,Awaria,42
+2025-10-16,Linia_B,Zmiana_2,Przezbrojenie,38
+2025-10-16,Linia_B,Zmiana_2,Awaria,56
+2025-10-16,Linia_B,Zmiana_3,Awaria,21
+2025-10-16,Linia_B,Zmiana_3,Brak materiału,9
+2025-10-16,Linia_C,Zmiana_1,Brak materiału,21
+2025-10-16,Linia_C,Zmiana_3,Brak materiału,52
+2025-10-16,Linia_C,Zmiana_3,Przezbrojenie,15
+2025-10-17,Linia_A,Zmiana_1,Brak materiału,58
+2025-10-17,Linia_A,Zmiana_1,Brak materiału,20
+2025-10-17,Linia_A,Zmiana_2,Przezbrojenie,31
+2025-10-17,Linia_A,Zmiana_2,Brak materiału,33
+2025-10-17,Linia_A,Zmiana_3,Przezbrojenie,25
+2025-10-17,Linia_A,Zmiana_3,Przezbrojenie,9
+2025-10-17,Linia_B,Zmiana_1,Awaria,25
+2025-10-17,Linia_B,Zmiana_2,Awaria,50
+2025-10-17,Linia_B,Zmiana_3,Brak materiału,13
+2025-10-17,Linia_B,Zmiana_3,Przezbrojenie,30
+2025-10-17,Linia_C,Zmiana_1,Awaria,52
+2025-10-17,Linia_C,Zmiana_1,Awaria,21
+2025-10-17,Linia_C,Zmiana_3,Awaria,26
+2025-10-17,Linia_C,Zmiana_3,Awaria,18
+2025-10-18,Linia_A,Zmiana_1,Brak materiału,49
+2025-10-18,Linia_A,Zmiana_2,Awaria,11
+2025-10-18,Linia_A,Zmiana_2,Brak materiału,7
+2025-10-18,Linia_B,Zmiana_1,Przezbrojenie,29
+2025-10-18,Linia_B,Zmiana_1,Brak materiału,59
+2025-10-18,Linia_C,Zmiana_1,Awaria,7
+2025-10-18,Linia_C,Zmiana_2,Przezbrojenie,38
+2025-10-19,Linia_A,Zmiana_1,Przezbrojenie,49
+2025-10-19,Linia_A,Zmiana_3,Brak materiału,52
+2025-10-19,Linia_A,Zmiana_3,Przezbrojenie,8
+2025-10-19,Linia_B,Zmiana_3,Brak materiału,8
+2025-10-19,Linia_B,Zmiana_3,Przezbrojenie,19
+2025-10-19,Linia_C,Zmiana_1,Brak materiału,55
+2025-10-19,Linia_C,Zmiana_2,Awaria,49
+2025-10-19,Linia_C,Zmiana_2,Brak materiału,48
+2025-10-20,Linia_A,Zmiana_3,Brak materiału,14
+2025-10-20,Linia_B,Zmiana_3,Awaria,28
+2025-10-20,Linia_B,Zmiana_3,Brak materiału,42
+2025-10-20,Linia_C,Zmiana_2,Brak materiału,39
+2025-10-20,Linia_C,Zmiana_2,Przezbrojenie,5
+2025-10-20,Linia_C,Zmiana_3,Brak materiału,45
+2025-10-20,Linia_C,Zmiana_3,Przezbrojenie,41
+2025-10-21,Linia_A,Zmiana_3,Awaria,36
+2025-10-21,Linia_B,Zmiana_2,Przezbrojenie,6
+2025-10-21,Linia_B,Zmiana_2,Przezbrojenie,18
+2025-10-21,Linia_B,Zmiana_3,Awaria,12
+2025-10-21,Linia_B,Zmiana_3,Przezbrojenie,46
+2025-10-21,Linia_C,Zmiana_1,Awaria,43
+2025-10-21,Linia_C,Zmiana_3,Brak materiału,6
+2025-10-22,Linia_B,Zmiana_2,Brak materiału,47
+2025-10-22,Linia_B,Zmiana_3,Przezbrojenie,14
+2025-10-22,Linia_C,Zmiana_1,Brak materiału,50
+2025-10-22,Linia_C,Zmiana_2,Awaria,22
+2025-10-22,Linia_C,Zmiana_3,Brak materiału,16
+2025-10-22,Linia_C,Zmiana_3,Awaria,48
+2025-10-23,Linia_A,Zmiana_1,Brak materiału,46
+2025-10-23,Linia_A,Zmiana_1,Przezbrojenie,53
+2025-10-23,Linia_A,Zmiana_2,Brak materiału,55
+2025-10-23,Linia_A,Zmiana_3,Brak materiału,27
+2025-10-23,Linia_A,Zmiana_3,Brak materiału,5
+2025-10-23,Linia_B,Zmiana_1,Awaria,5
+2025-10-23,Linia_B,Zmiana_1,Awaria,58
+2025-10-23,Linia_C,Zmiana_2,Przezbrojenie,22
+2025-10-23,Linia_C,Zmiana_2,Awaria,31
+2025-10-23,Linia_C,Zmiana_3,Brak materiału,48
+2025-10-23,Linia_C,Zmiana_3,Brak materiału,55
+2025-10-24,Linia_A,Zmiana_1,Awaria,57
+2025-10-24,Linia_A,Zmiana_2,Brak materiału,47
+2025-10-24,Linia_A,Zmiana_2,Przezbrojenie,26
+2025-10-24,Linia_B,Zmiana_1,Przezbrojenie,26
+2025-10-24,Linia_B,Zmiana_3,Awaria,27
+2025-10-24,Linia_C,Zmiana_2,Awaria,22
+2025-10-24,Linia_C,Zmiana_2,Przezbrojenie,5
+2025-10-24,Linia_C,Zmiana_3,Przezbrojenie,32
+2025-10-25,Linia_A,Zmiana_2,Awaria,14
+2025-10-25,Linia_A,Zmiana_3,Awaria,59
+2025-10-25,Linia_A,Zmiana_3,Awaria,32
+2025-10-25,Linia_B,Zmiana_2,Brak materiału,51
+2025-10-25,Linia_B,Zmiana_3,Awaria,12
+2025-10-25,Linia_B,Zmiana_3,Awaria,38
+2025-10-25,Linia_C,Zmiana_1,Brak materiału,47
+2025-10-25,Linia_C,Zmiana_2,Przezbrojenie,35
+2025-10-26,Linia_A,Zmiana_2,Awaria,6
+2025-10-26,Linia_A,Zmiana_3,Brak materiału,6
+2025-10-26,Linia_B,Zmiana_2,Awaria,56
+2025-10-26,Linia_B,Zmiana_2,Awaria,26
+2025-10-26,Linia_B,Zmiana_3,Brak materiału,50
+2025-10-26,Linia_B,Zmiana_3,Przezbrojenie,27
+2025-10-26,Linia_C,Zmiana_3,Brak materiału,50
+2025-10-26,Linia_C,Zmiana_3,Awaria,8
+2025-10-27,Linia_A,Zmiana_1,Przezbrojenie,41
+2025-10-27,Linia_A,Zmiana_1,Brak materiału,15
+2025-10-27,Linia_A,Zmiana_2,Brak materiału,40
+2025-10-27,Linia_A,Zmiana_3,Przezbrojenie,16
+2025-10-27,Linia_B,Zmiana_2,Awaria,16
+2025-10-27,Linia_C,Zmiana_1,Brak materiału,58
+2025-10-27,Linia_C,Zmiana_2,Brak materiału,33
+2025-10-28,Linia_A,Zmiana_1,Brak materiału,26
+2025-10-28,Linia_A,Zmiana_2,Awaria,24
+2025-10-28,Linia_A,Zmiana_2,Brak materiału,23
+2025-10-28,Linia_A,Zmiana_3,Przezbrojenie,49
+2025-10-28,Linia_B,Zmiana_3,Przezbrojenie,29
+2025-10-28,Linia_C,Zmiana_1,Brak materiału,34
+2025-10-28,Linia_C,Zmiana_1,Brak materiału,42
+2025-10-28,Linia_C,Zmiana_2,Przezbrojenie,53
+2025-10-28,Linia_C,Zmiana_2,Przezbrojenie,21
+2025-10-28,Linia_C,Zmiana_3,Brak materiału,16
+2025-10-28,Linia_C,Zmiana_3,Przezbrojenie,20
+2025-10-29,Linia_A,Zmiana_2,Awaria,29
+2025-10-29,Linia_B,Zmiana_1,Awaria,21
+2025-10-29,Linia_B,Zmiana_1,Awaria,27
+2025-10-29,Linia_B,Zmiana_2,Awaria,19
+2025-10-29,Linia_B,Zmiana_3,Przezbrojenie,27
+2025-10-29,Linia_C,Zmiana_1,Awaria,39
+2025-10-29,Linia_C,Zmiana_1,Brak materiału,22
+2025-10-29,Linia_C,Zmiana_2,Brak materiału,48
+2025-10-29,Linia_C,Zmiana_2,Awaria,49
+2025-10-29,Linia_C,Zmiana_3,Brak materiału,59
+2025-10-30,Linia_A,Zmiana_3,Awaria,59
+2025-10-30,Linia_B,Zmiana_1,Awaria,43
+2025-10-30,Linia_B,Zmiana_1,Awaria,50
+2025-10-30,Linia_B,Zmiana_2,Brak materiału,14
+2025-10-30,Linia_B,Zmiana_2,Brak materiału,34
+2025-10-30,Linia_B,Zmiana_3,Awaria,49
+2025-10-30,Linia_B,Zmiana_3,Awaria,18
+2025-10-31,Linia_A,Zmiana_1,Awaria,28
+2025-10-31,Linia_B,Zmiana_1,Awaria,45
+2025-10-31,Linia_B,Zmiana_2,Przezbrojenie,51
+2025-10-31,Linia_B,Zmiana_3,Awaria,53
+2025-10-31,Linia_C,Zmiana_2,Brak materiału,17
+2025-10-31,Linia_C,Zmiana_3,Awaria,15
+2025-11-01,Linia_A,Zmiana_3,Przezbrojenie,38
+2025-11-01,Linia_A,Zmiana_3,Brak materiału,28
+2025-11-01,Linia_C,Zmiana_1,Przezbrojenie,44
+2025-11-01,Linia_C,Zmiana_2,Awaria,20
+2025-11-01,Linia_C,Zmiana_2,Brak materiału,44
+2025-11-02,Linia_A,Zmiana_1,Awaria,40
+2025-11-02,Linia_A,Zmiana_2,Brak materiału,49
+2025-11-02,Linia_A,Zmiana_2,Brak materiału,55
+2025-11-02,Linia_A,Zmiana_3,Brak materiału,57
+2025-11-02,Linia_A,Zmiana_3,Przezbrojenie,34
+2025-11-02,Linia_B,Zmiana_1,Awaria,17
+2025-11-02,Linia_B,Zmiana_3,Przezbrojenie,38
+2025-11-02,Linia_B,Zmiana_3,Przezbrojenie,28
+2025-11-02,Linia_C,Zmiana_1,Awaria,32
+2025-11-02,Linia_C,Zmiana_2,Awaria,8
+2025-11-03,Linia_A,Zmiana_1,Awaria,22
+2025-11-03,Linia_A,Zmiana_1,Brak materiału,54
+2025-11-03,Linia_A,Zmiana_2,Przezbrojenie,39
+2025-11-03,Linia_A,Zmiana_2,Przezbrojenie,56
+2025-11-03,Linia_B,Zmiana_1,Przezbrojenie,27
+2025-11-03,Linia_B,Zmiana_1,Przezbrojenie,30
+2025-11-03,Linia_C,Zmiana_1,Przezbrojenie,51
+2025-11-03,Linia_C,Zmiana_2,Brak materiału,7
+2025-11-03,Linia_C,Zmiana_2,Awaria,21
+2025-11-04,Linia_A,Zmiana_2,Brak materiału,19
+2025-11-04,Linia_B,Zmiana_1,Brak materiału,12
+2025-11-04,Linia_B,Zmiana_1,Brak materiału,50
+2025-11-04,Linia_B,Zmiana_2,Awaria,31
+2025-11-04,Linia_B,Zmiana_2,Awaria,50
+2025-11-04,Linia_B,Zmiana_3,Przezbrojenie,7
+2025-11-04,Linia_C,Zmiana_1,Brak materiału,18
+2025-11-04,Linia_C,Zmiana_3,Przezbrojenie,17
+2025-11-04,Linia_C,Zmiana_3,Awaria,21
+2025-11-05,Linia_A,Zmiana_1,Awaria,50
+2025-11-05,Linia_B,Zmiana_2,Awaria,20
+2025-11-05,Linia_B,Zmiana_2,Awaria,58
+2025-11-05,Linia_B,Zmiana_3,Brak materiału,44
+2025-11-05,Linia_C,Zmiana_1,Przezbrojenie,37
+2025-11-05,Linia_C,Zmiana_3,Awaria,6
+2025-11-05,Linia_C,Zmiana_3,Przezbrojenie,42
+2025-11-06,Linia_A,Zmiana_1,Awaria,38
+2025-11-06,Linia_A,Zmiana_1,Przezbrojenie,46
+2025-11-06,Linia_A,Zmiana_2,Przezbrojenie,13
+2025-11-06,Linia_A,Zmiana_3,Awaria,32
+2025-11-06,Linia_B,Zmiana_1,Awaria,15
+2025-11-06,Linia_B,Zmiana_1,Przezbrojenie,24
+2025-11-06,Linia_B,Zmiana_2,Brak materiału,45
+2025-11-06,Linia_B,Zmiana_2,Awaria,46
+2025-11-06,Linia_C,Zmiana_1,Awaria,50
+2025-11-06,Linia_C,Zmiana_1,Brak materiału,40
+2025-11-06,Linia_C,Zmiana_2,Brak materiału,36
+2025-11-06,Linia_C,Zmiana_2,Awaria,55
+2025-11-07,Linia_B,Zmiana_1,Awaria,24
+2025-11-07,Linia_B,Zmiana_3,Awaria,40
+2025-11-07,Linia_C,Zmiana_1,Awaria,58
+2025-11-07,Linia_C,Zmiana_1,Przezbrojenie,16
+2025-11-07,Linia_C,Zmiana_3,Przezbrojenie,27
+2025-11-08,Linia_A,Zmiana_2,Przezbrojenie,43
+2025-11-08,Linia_B,Zmiana_2,Awaria,35
+2025-11-08,Linia_B,Zmiana_2,Przezbrojenie,15
+2025-11-08,Linia_B,Zmiana_3,Awaria,33
+2025-11-08,Linia_C,Zmiana_1,Awaria,16
+2025-11-08,Linia_C,Zmiana_1,Przezbrojenie,5
+2025-11-08,Linia_C,Zmiana_3,Awaria,19
+2025-11-08,Linia_C,Zmiana_3,Przezbrojenie,10
+2025-11-09,Linia_A,Zmiana_2,Przezbrojenie,39
+2025-11-09,Linia_A,Zmiana_2,Przezbrojenie,10
+2025-11-09,Linia_A,Zmiana_3,Przezbrojenie,16
+2025-11-09,Linia_B,Zmiana_1,Przezbrojenie,47
+2025-11-09,Linia_B,Zmiana_1,Brak materiału,38
+2025-11-09,Linia_B,Zmiana_2,Brak materiału,51
+2025-11-09,Linia_B,Zmiana_2,Brak materiału,47
+2025-11-09,Linia_B,Zmiana_3,Brak materiału,49
+2025-11-09,Linia_C,Zmiana_1,Brak materiału,25
+2025-11-09,Linia_C,Zmiana_2,Przezbrojenie,9
+2025-11-09,Linia_C,Zmiana_3,Awaria,59
+2025-11-09,Linia_C,Zmiana_3,Awaria,30
+2025-11-10,Linia_A,Zmiana_1,Przezbrojenie,12
+2025-11-10,Linia_A,Zmiana_2,Awaria,20
+2025-11-10,Linia_A,Zmiana_2,Awaria,18
+2025-11-10,Linia_A,Zmiana_3,Brak materiału,54
+2025-11-10,Linia_B,Zmiana_3,Brak materiału,42
+2025-11-10,Linia_C,Zmiana_1,Brak materiału,22
+2025-11-10,Linia_C,Zmiana_2,Awaria,5
+2025-11-10,Linia_C,Zmiana_2,Brak materiału,28
+2025-11-11,Linia_A,Zmiana_1,Przezbrojenie,33
+2025-11-11,Linia_A,Zmiana_1,Awaria,29
+2025-11-11,Linia_A,Zmiana_2,Awaria,30
+2025-11-11,Linia_A,Zmiana_3,Brak materiału,50
+2025-11-11,Linia_B,Zmiana_1,Przezbrojenie,10
+2025-11-11,Linia_C,Zmiana_1,Brak materiału,52
+2025-11-11,Linia_C,Zmiana_1,Brak materiału,27
+2025-11-11,Linia_C,Zmiana_2,Awaria,20
+2025-11-11,Linia_C,Zmiana_2,Awaria,51
+2025-11-11,Linia_C,Zmiana_3,Brak materiału,19
+2025-11-11,Linia_C,Zmiana_3,Awaria,8
+2025-11-12,Linia_A,Zmiana_1,Awaria,18
+2025-11-12,Linia_A,Zmiana_3,Awaria,40
+2025-11-12,Linia_B,Zmiana_2,Brak materiału,11
+2025-11-12,Linia_B,Zmiana_2,Awaria,35
+2025-11-12,Linia_B,Zmiana_3,Brak materiału,53
+2025-11-12,Linia_B,Zmiana_3,Awaria,46
+2025-11-12,Linia_C,Zmiana_3,Przezbrojenie,46
+2025-11-13,Linia_A,Zmiana_1,Awaria,31
+2025-11-13,Linia_A,Zmiana_2,Brak materiału,14
+2025-11-13,Linia_A,Zmiana_2,Awaria,29
+2025-11-13,Linia_A,Zmiana_3,Brak materiału,54
+2025-11-13,Linia_A,Zmiana_3,Brak materiału,9
+2025-11-13,Linia_B,Zmiana_1,Awaria,25
+2025-11-13,Linia_B,Zmiana_1,Brak materiału,21
+2025-11-13,Linia_B,Zmiana_2,Awaria,36
+2025-11-13,Linia_B,Zmiana_2,Przezbrojenie,15
+2025-11-13,Linia_C,Zmiana_1,Brak materiału,25
+2025-11-13,Linia_C,Zmiana_1,Brak materiału,22
+2025-11-13,Linia_C,Zmiana_2,Brak materiału,45
+2025-11-13,Linia_C,Zmiana_2,Brak materiału,53
+2025-11-13,Linia_C,Zmiana_3,Przezbrojenie,8
+2025-11-13,Linia_C,Zmiana_3,Przezbrojenie,30
+2025-11-14,Linia_A,Zmiana_3,Awaria,9
+2025-11-14,Linia_B,Zmiana_1,Brak materiału,12
+2025-11-14,Linia_B,Zmiana_2,Brak materiału,26
+2025-11-14,Linia_B,Zmiana_2,Przezbrojenie,10
+2025-11-14,Linia_B,Zmiana_3,Awaria,21
+2025-11-14,Linia_C,Zmiana_1,Przezbrojenie,48
+2025-11-14,Linia_C,Zmiana_2,Przezbrojenie,20
+2025-11-14,Linia_C,Zmiana_2,Awaria,46
+2025-11-15,Linia_A,Zmiana_1,Brak materiału,49
+2025-11-15,Linia_B,Zmiana_1,Brak materiału,22
+2025-11-15,Linia_C,Zmiana_1,Przezbrojenie,49
+2025-11-15,Linia_C,Zmiana_3,Przezbrojenie,8
+2025-11-16,Linia_A,Zmiana_1,Przezbrojenie,19
+2025-11-16,Linia_A,Zmiana_1,Awaria,26
+2025-11-16,Linia_A,Zmiana_2,Awaria,22
+2025-11-16,Linia_A,Zmiana_3,Przezbrojenie,18
+2025-11-16,Linia_B,Zmiana_1,Brak materiału,13
+2025-11-16,Linia_B,Zmiana_2,Brak materiału,39
+2025-11-16,Linia_B,Zmiana_3,Awaria,29
+2025-11-16,Linia_C,Zmiana_2,Awaria,50
+2025-11-16,Linia_C,Zmiana_3,Brak materiału,12
+2025-11-17,Linia_A,Zmiana_3,Awaria,10
+2025-11-17,Linia_A,Zmiana_3,Brak materiału,36
+2025-11-17,Linia_B,Zmiana_1,Przezbrojenie,23
+2025-11-17,Linia_B,Zmiana_1,Awaria,35
+2025-11-17,Linia_B,Zmiana_2,Przezbrojenie,15
+2025-11-17,Linia_B,Zmiana_3,Awaria,23
+2025-11-17,Linia_B,Zmiana_3,Awaria,13
+2025-11-17,Linia_C,Zmiana_1,Przezbrojenie,50
+2025-11-18,Linia_A,Zmiana_1,Przezbrojenie,41
+2025-11-18,Linia_A,Zmiana_2,Awaria,18
+2025-11-18,Linia_B,Zmiana_1,Przezbrojenie,42
+2025-11-18,Linia_B,Zmiana_2,Brak materiału,43
+2025-11-18,Linia_B,Zmiana_3,Brak materiału,54
+2025-11-18,Linia_C,Zmiana_3,Przezbrojenie,57
+2025-11-18,Linia_C,Zmiana_3,Brak materiału,30
+2025-11-19,Linia_A,Zmiana_1,Brak materiału,44
+2025-11-19,Linia_C,Zmiana_1,Brak materiału,26
+2025-11-19,Linia_C,Zmiana_1,Awaria,12
+2025-11-20,Linia_A,Zmiana_1,Brak materiału,28
+2025-11-20,Linia_A,Zmiana_1,Brak materiału,39
+2025-11-20,Linia_A,Zmiana_3,Przezbrojenie,23
+2025-11-20,Linia_A,Zmiana_3,Brak materiału,11
+2025-11-20,Linia_B,Zmiana_2,Awaria,51
+2025-11-20,Linia_C,Zmiana_1,Awaria,45
+2025-11-20,Linia_C,Zmiana_2,Przezbrojenie,14
+2025-11-20,Linia_C,Zmiana_3,Awaria,58
+2025-11-21,Linia_A,Zmiana_1,Awaria,15
+2025-11-21,Linia_A,Zmiana_2,Brak materiału,59
+2025-11-21,Linia_A,Zmiana_3,Brak materiału,29
+2025-11-21,Linia_B,Zmiana_1,Awaria,50
+2025-11-21,Linia_B,Zmiana_1,Przezbrojenie,53
+2025-11-21,Linia_B,Zmiana_2,Przezbrojenie,43
+2025-11-21,Linia_B,Zmiana_2,Brak materiału,53
+2025-11-21,Linia_C,Zmiana_1,Awaria,44
+2025-11-21,Linia_C,Zmiana_2,Brak materiału,26
+2025-11-21,Linia_C,Zmiana_2,Przezbrojenie,26
+2025-11-22,Linia_A,Zmiana_1,Awaria,56
+2025-11-22,Linia_A,Zmiana_1,Brak materiału,31
+2025-11-22,Linia_A,Zmiana_2,Brak materiału,47
+2025-11-22,Linia_A,Zmiana_3,Przezbrojenie,23
+2025-11-22,Linia_B,Zmiana_1,Brak materiału,29
+2025-11-22,Linia_B,Zmiana_1,Przezbrojenie,41
+2025-11-22,Linia_B,Zmiana_3,Przezbrojenie,36
+2025-11-22,Linia_B,Zmiana_3,Awaria,46
+2025-11-22,Linia_C,Zmiana_1,Awaria,43
+2025-11-22,Linia_C,Zmiana_3,Brak materiału,58
+2025-11-23,Linia_A,Zmiana_2,Przezbrojenie,35
+2025-11-23,Linia_A,Zmiana_2,Przezbrojenie,59
+2025-11-23,Linia_A,Zmiana_3,Awaria,8
+2025-11-23,Linia_A,Zmiana_3,Awaria,24
+2025-11-23,Linia_B,Zmiana_1,Przezbrojenie,41
+2025-11-23,Linia_C,Zmiana_1,Awaria,59
+2025-11-23,Linia_C,Zmiana_2,Brak materiału,22
+2025-11-23,Linia_C,Zmiana_3,Przezbrojenie,53
+2025-11-23,Linia_C,Zmiana_3,Awaria,50
+2025-11-24,Linia_A,Zmiana_1,Brak materiału,42
+2025-11-24,Linia_B,Zmiana_1,Przezbrojenie,51
+2025-11-24,Linia_B,Zmiana_1,Brak materiału,15
+2025-11-24,Linia_B,Zmiana_2,Brak materiału,31
+2025-11-24,Linia_B,Zmiana_2,Przezbrojenie,19
+2025-11-24,Linia_B,Zmiana_3,Brak materiału,43
+2025-11-24,Linia_B,Zmiana_3,Awaria,13
+2025-11-24,Linia_C,Zmiana_1,Awaria,17
+2025-11-24,Linia_C,Zmiana_1,Awaria,47
+2025-11-24,Linia_C,Zmiana_2,Brak materiału,21
+2025-11-24,Linia_C,Zmiana_3,Awaria,9
+2025-11-24,Linia_C,Zmiana_3,Brak materiału,33
+2025-11-25,Linia_A,Zmiana_2,Awaria,43
+2025-11-25,Linia_A,Zmiana_2,Przezbrojenie,54
+2025-11-25,Linia_A,Zmiana_3,Brak materiału,45
+2025-11-25,Linia_B,Zmiana_2,Brak materiału,39
+2025-11-25,Linia_B,Zmiana_2,Awaria,59
+2025-11-25,Linia_B,Zmiana_3,Przezbrojenie,35
+2025-11-25,Linia_C,Zmiana_3,Awaria,10
+2025-11-25,Linia_C,Zmiana_3,Awaria,19
+2025-11-26,Linia_A,Zmiana_1,Przezbrojenie,52
+2025-11-26,Linia_A,Zmiana_1,Przezbrojenie,11
+2025-11-26,Linia_A,Zmiana_2,Awaria,41
+2025-11-26,Linia_A,Zmiana_3,Przezbrojenie,30
+2025-11-26,Linia_A,Zmiana_3,Awaria,41
+2025-11-26,Linia_B,Zmiana_1,Brak materiału,46
+2025-11-26,Linia_B,Zmiana_1,Awaria,11
+2025-11-26,Linia_C,Zmiana_1,Brak materiału,50
+2025-11-27,Linia_A,Zmiana_1,Awaria,43
+2025-11-27,Linia_A,Zmiana_1,Przezbrojenie,26
+2025-11-27,Linia_A,Zmiana_2,Brak materiału,39
+2025-11-27,Linia_A,Zmiana_3,Przezbrojenie,8
+2025-11-27,Linia_A,Zmiana_3,Brak materiału,50
+2025-11-27,Linia_B,Zmiana_2,Brak materiału,31
+2025-11-27,Linia_B,Zmiana_3,Awaria,29
+2025-11-27,Linia_C,Zmiana_1,Awaria,10
+2025-11-27,Linia_C,Zmiana_1,Awaria,43
+2025-11-27,Linia_C,Zmiana_2,Awaria,23
+2025-11-27,Linia_C,Zmiana_2,Przezbrojenie,9
+2025-11-28,Linia_A,Zmiana_1,Awaria,19
+2025-11-28,Linia_A,Zmiana_1,Awaria,52
+2025-11-28,Linia_A,Zmiana_2,Brak materiału,16
+2025-11-28,Linia_B,Zmiana_1,Przezbrojenie,37
+2025-11-28,Linia_B,Zmiana_3,Przezbrojenie,10
+2025-11-28,Linia_C,Zmiana_1,Brak materiału,50
+2025-11-28,Linia_C,Zmiana_1,Brak materiału,59
+2025-11-28,Linia_C,Zmiana_2,Awaria,57
+2025-11-28,Linia_C,Zmiana_2,Przezbrojenie,25
+2025-11-28,Linia_C,Zmiana_3,Awaria,35
+2025-11-29,Linia_B,Zmiana_2,Brak materiału,7
+2025-11-29,Linia_C,Zmiana_3,Awaria,21
+2025-11-30,Linia_A,Zmiana_1,Przezbrojenie,31
+2025-11-30,Linia_A,Zmiana_1,Awaria,39
+2025-11-30,Linia_A,Zmiana_2,Przezbrojenie,6
+2025-11-30,Linia_A,Zmiana_3,Awaria,10
+2025-11-30,Linia_A,Zmiana_3,Awaria,13
+2025-11-30,Linia_B,Zmiana_1,Przezbrojenie,27
+2025-11-30,Linia_B,Zmiana_1,Przezbrojenie,7
+2025-11-30,Linia_B,Zmiana_3,Przezbrojenie,40
+2025-11-30,Linia_C,Zmiana_2,Awaria,31
+2025-11-30,Linia_C,Zmiana_3,Awaria,42
+2025-12-01,Linia_A,Zmiana_1,Awaria,39
+2025-12-01,Linia_A,Zmiana_2,Brak materiału,24
+2025-12-01,Linia_A,Zmiana_2,Awaria,53
+2025-12-01,Linia_A,Zmiana_3,Przezbrojenie,26
+2025-12-01,Linia_A,Zmiana_3,Przezbrojenie,52
+2025-12-01,Linia_B,Zmiana_1,Przezbrojenie,23
+2025-12-01,Linia_B,Zmiana_2,Awaria,18
+2025-12-01,Linia_B,Zmiana_2,Przezbrojenie,13
+2025-12-01,Linia_C,Zmiana_2,Przezbrojenie,45
+2025-12-01,Linia_C,Zmiana_2,Brak materiału,18
+2025-12-01,Linia_C,Zmiana_3,Brak materiału,45
+2025-12-02,Linia_A,Zmiana_1,Przezbrojenie,20
+2025-12-02,Linia_A,Zmiana_1,Brak materiału,33
+2025-12-02,Linia_A,Zmiana_2,Brak materiału,54
+2025-12-02,Linia_B,Zmiana_3,Przezbrojenie,45
+2025-12-02,Linia_B,Zmiana_3,Awaria,23
+2025-12-02,Linia_C,Zmiana_2,Awaria,11
+2025-12-02,Linia_C,Zmiana_2,Przezbrojenie,32
+2025-12-03,Linia_A,Zmiana_1,Awaria,59
+2025-12-03,Linia_A,Zmiana_1,Brak materiału,45
+2025-12-03,Linia_A,Zmiana_2,Przezbrojenie,26
+2025-12-03,Linia_A,Zmiana_3,Awaria,30
+2025-12-03,Linia_B,Zmiana_1,Awaria,5
+2025-12-03,Linia_B,Zmiana_2,Brak materiału,39
+2025-12-03,Linia_B,Zmiana_3,Przezbrojenie,53
+2025-12-04,Linia_A,Zmiana_1,Przezbrojenie,59
+2025-12-04,Linia_A,Zmiana_1,Brak materiału,45
+2025-12-04,Linia_A,Zmiana_2,Przezbrojenie,15
+2025-12-04,Linia_A,Zmiana_2,Przezbrojenie,17
+2025-12-04,Linia_B,Zmiana_1,Brak materiału,43
+2025-12-04,Linia_C,Zmiana_1,Brak materiału,22
+2025-12-04,Linia_C,Zmiana_2,Awaria,41
+2025-12-05,Linia_A,Zmiana_1,Przezbrojenie,6
+2025-12-05,Linia_A,Zmiana_1,Brak materiału,33
+2025-12-05,Linia_A,Zmiana_2,Awaria,58
+2025-12-05,Linia_A,Zmiana_2,Przezbrojenie,13
+2025-12-05,Linia_A,Zmiana_3,Awaria,57
+2025-12-05,Linia_A,Zmiana_3,Brak materiału,6
+2025-12-05,Linia_B,Zmiana_1,Przezbrojenie,44
+2025-12-05,Linia_B,Zmiana_2,Awaria,47
+2025-12-05,Linia_B,Zmiana_2,Brak materiału,5
+2025-12-05,Linia_B,Zmiana_3,Brak materiału,35
+2025-12-05,Linia_B,Zmiana_3,Brak materiału,29
+2025-12-05,Linia_C,Zmiana_1,Brak materiału,47
+2025-12-05,Linia_C,Zmiana_3,Brak materiału,7
+2025-12-05,Linia_C,Zmiana_3,Brak materiału,32
+2025-12-06,Linia_A,Zmiana_1,Brak materiału,52
+2025-12-06,Linia_A,Zmiana_1,Awaria,36
+2025-12-06,Linia_B,Zmiana_3,Przezbrojenie,5
+2025-12-06,Linia_C,Zmiana_2,Przezbrojenie,31
+2025-12-06,Linia_C,Zmiana_3,Awaria,19
+2025-12-07,Linia_A,Zmiana_1,Brak materiału,41
+2025-12-07,Linia_A,Zmiana_2,Przezbrojenie,13
+2025-12-07,Linia_A,Zmiana_3,Brak materiału,56
+2025-12-07,Linia_B,Zmiana_1,Przezbrojenie,8
+2025-12-07,Linia_C,Zmiana_1,Brak materiału,8
+2025-12-07,Linia_C,Zmiana_1,Awaria,55
+2025-12-07,Linia_C,Zmiana_3,Brak materiału,21
+2025-12-07,Linia_C,Zmiana_3,Przezbrojenie,39
+2025-12-08,Linia_A,Zmiana_1,Brak materiału,23
+2025-12-08,Linia_A,Zmiana_3,Przezbrojenie,15
+2025-12-08,Linia_B,Zmiana_1,Brak materiału,43
+2025-12-08,Linia_B,Zmiana_1,Przezbrojenie,32
+2025-12-08,Linia_B,Zmiana_2,Przezbrojenie,16
+2025-12-08,Linia_B,Zmiana_3,Przezbrojenie,52
+2025-12-08,Linia_C,Zmiana_1,Brak materiału,40
+2025-12-08,Linia_C,Zmiana_2,Przezbrojenie,15
+2025-12-08,Linia_C,Zmiana_2,Brak materiału,55
+2025-12-08,Linia_C,Zmiana_3,Awaria,22
+2025-12-08,Linia_C,Zmiana_3,Awaria,32
+2025-12-09,Linia_A,Zmiana_3,Przezbrojenie,9
+2025-12-09,Linia_A,Zmiana_3,Brak materiału,17
+2025-12-09,Linia_B,Zmiana_1,Przezbrojenie,33
+2025-12-09,Linia_B,Zmiana_2,Brak materiału,46
+2025-12-09,Linia_B,Zmiana_3,Brak materiału,34
+2025-12-09,Linia_B,Zmiana_3,Awaria,34
+2025-12-09,Linia_C,Zmiana_1,Brak materiału,53
+2025-12-10,Linia_A,Zmiana_2,Brak materiału,44
+2025-12-10,Linia_A,Zmiana_2,Przezbrojenie,27
+2025-12-10,Linia_A,Zmiana_3,Przezbrojenie,35
+2025-12-10,Linia_B,Zmiana_2,Brak materiału,42
+2025-12-10,Linia_B,Zmiana_2,Awaria,20
+2025-12-10,Linia_B,Zmiana_3,Przezbrojenie,20
+2025-12-10,Linia_C,Zmiana_1,Przezbrojenie,38
+2025-12-10,Linia_C,Zmiana_1,Awaria,43
+2025-12-10,Linia_C,Zmiana_2,Przezbrojenie,59
+2025-12-11,Linia_A,Zmiana_3,Brak materiału,36
+2025-12-11,Linia_A,Zmiana_3,Brak materiału,14
+2025-12-11,Linia_B,Zmiana_1,Brak materiału,18
+2025-12-11,Linia_B,Zmiana_2,Przezbrojenie,34
+2025-12-11,Linia_B,Zmiana_3,Przezbrojenie,16
+2025-12-11,Linia_C,Zmiana_1,Przezbrojenie,15
+2025-12-11,Linia_C,Zmiana_2,Przezbrojenie,53
+2025-12-11,Linia_C,Zmiana_2,Brak materiału,33
+2025-12-11,Linia_C,Zmiana_3,Awaria,21
+2025-12-12,Linia_A,Zmiana_3,Brak materiału,38
+2025-12-12,Linia_A,Zmiana_3,Przezbrojenie,48
+2025-12-12,Linia_B,Zmiana_1,Brak materiału,17
+2025-12-12,Linia_B,Zmiana_1,Awaria,23
+2025-12-12,Linia_B,Zmiana_2,Brak materiału,41
+2025-12-12,Linia_B,Zmiana_2,Awaria,21
+2025-12-12,Linia_B,Zmiana_3,Przezbrojenie,29
+2025-12-12,Linia_B,Zmiana_3,Brak materiału,59
+2025-12-12,Linia_C,Zmiana_2,Brak materiału,21
+2025-12-12,Linia_C,Zmiana_2,Brak materiału,8
+2025-12-12,Linia_C,Zmiana_3,Brak materiału,23
+2025-12-12,Linia_C,Zmiana_3,Przezbrojenie,16
+2025-12-13,Linia_A,Zmiana_1,Awaria,32
+2025-12-13,Linia_A,Zmiana_1,Awaria,45
+2025-12-13,Linia_A,Zmiana_2,Brak materiału,48
+2025-12-13,Linia_A,Zmiana_2,Przezbrojenie,45
+2025-12-13,Linia_B,Zmiana_1,Awaria,15
+2025-12-13,Linia_B,Zmiana_3,Awaria,7
+2025-12-13,Linia_C,Zmiana_1,Awaria,58
+2025-12-13,Linia_C,Zmiana_2,Awaria,17
+2025-12-13,Linia_C,Zmiana_2,Awaria,53
+2025-12-14,Linia_A,Zmiana_1,Awaria,28
+2025-12-14,Linia_A,Zmiana_2,Przezbrojenie,51
+2025-12-14,Linia_A,Zmiana_2,Brak materiału,42
+2025-12-14,Linia_B,Zmiana_1,Awaria,42
+2025-12-14,Linia_B,Zmiana_2,Przezbrojenie,21
+2025-12-14,Linia_B,Zmiana_2,Przezbrojenie,44
+2025-12-14,Linia_B,Zmiana_3,Brak materiału,57
+2025-12-14,Linia_C,Zmiana_1,Brak materiału,11
+2025-12-14,Linia_C,Zmiana_3,Awaria,57
+2025-12-14,Linia_C,Zmiana_3,Brak materiału,40
+2025-12-15,Linia_A,Zmiana_1,Brak materiału,13
+2025-12-15,Linia_A,Zmiana_1,Przezbrojenie,36
+2025-12-15,Linia_A,Zmiana_3,Przezbrojenie,33
+2025-12-15,Linia_A,Zmiana_3,Przezbrojenie,45
+2025-12-15,Linia_B,Zmiana_2,Awaria,8
+2025-12-15,Linia_C,Zmiana_1,Awaria,45
+2025-12-15,Linia_C,Zmiana_2,Brak materiału,46
+2025-12-15,Linia_C,Zmiana_2,Brak materiału,30
+2025-12-15,Linia_C,Zmiana_3,Awaria,35
+2025-12-15,Linia_C,Zmiana_3,Awaria,32
+2025-12-16,Linia_A,Zmiana_1,Przezbrojenie,28
+2025-12-16,Linia_A,Zmiana_3,Awaria,58
+2025-12-16,Linia_A,Zmiana_3,Awaria,37
+2025-12-16,Linia_B,Zmiana_2,Brak materiału,26
+2025-12-16,Linia_C,Zmiana_1,Brak materiału,33
+2025-12-16,Linia_C,Zmiana_3,Przezbrojenie,45
+2025-12-17,Linia_A,Zmiana_1,Awaria,30
+2025-12-17,Linia_A,Zmiana_1,Brak materiału,16
+2025-12-17,Linia_A,Zmiana_2,Awaria,59
+2025-12-17,Linia_A,Zmiana_2,Awaria,42
+2025-12-17,Linia_A,Zmiana_3,Przezbrojenie,33
+2025-12-17,Linia_A,Zmiana_3,Awaria,38
+2025-12-17,Linia_B,Zmiana_1,Przezbrojenie,38
+2025-12-17,Linia_B,Zmiana_2,Brak materiału,36
+2025-12-17,Linia_B,Zmiana_3,Brak materiału,26
+2025-12-17,Linia_C,Zmiana_2,Brak materiału,47
+2025-12-17,Linia_C,Zmiana_3,Brak materiału,59
+2025-12-18,Linia_A,Zmiana_1,Przezbrojenie,33
+2025-12-18,Linia_A,Zmiana_1,Przezbrojenie,7
+2025-12-18,Linia_B,Zmiana_2,Brak materiału,31
+2025-12-18,Linia_B,Zmiana_2,Brak materiału,30
+2025-12-18,Linia_C,Zmiana_2,Brak materiału,14
+2025-12-18,Linia_C,Zmiana_2,Przezbrojenie,15
+2025-12-18,Linia_C,Zmiana_3,Brak materiału,49
+2025-12-19,Linia_A,Zmiana_1,Przezbrojenie,55
+2025-12-19,Linia_A,Zmiana_1,Awaria,25
+2025-12-19,Linia_A,Zmiana_2,Brak materiału,49
+2025-12-19,Linia_A,Zmiana_2,Przezbrojenie,11
+2025-12-19,Linia_B,Zmiana_1,Przezbrojenie,54
+2025-12-19,Linia_B,Zmiana_1,Przezbrojenie,56
+2025-12-19,Linia_B,Zmiana_2,Awaria,50
+2025-12-19,Linia_B,Zmiana_2,Brak materiału,32
+2025-12-19,Linia_C,Zmiana_1,Przezbrojenie,40
+2025-12-19,Linia_C,Zmiana_1,Brak materiału,38
+2025-12-19,Linia_C,Zmiana_2,Przezbrojenie,38
+2025-12-19,Linia_C,Zmiana_2,Brak materiału,53
+2025-12-19,Linia_C,Zmiana_3,Awaria,49
+2025-12-19,Linia_C,Zmiana_3,Przezbrojenie,9
+2025-12-20,Linia_A,Zmiana_2,Przezbrojenie,42
+2025-12-20,Linia_A,Zmiana_2,Awaria,25
+2025-12-20,Linia_A,Zmiana_3,Brak materiału,51
+2025-12-20,Linia_B,Zmiana_1,Przezbrojenie,45
+2025-12-20,Linia_B,Zmiana_1,Awaria,9
+2025-12-20,Linia_B,Zmiana_3,Przezbrojenie,51
+2025-12-20,Linia_B,Zmiana_3,Przezbrojenie,58
+2025-12-20,Linia_C,Zmiana_2,Przezbrojenie,35
+2025-12-20,Linia_C,Zmiana_2,Brak materiału,46
+2025-12-20,Linia_C,Zmiana_3,Awaria,13
+2025-12-20,Linia_C,Zmiana_3,Awaria,21
+2025-12-21,Linia_A,Zmiana_3,Awaria,29
+2025-12-21,Linia_A,Zmiana_3,Awaria,55
+2025-12-21,Linia_B,Zmiana_1,Przezbrojenie,36
+2025-12-21,Linia_B,Zmiana_1,Brak materiału,43
+2025-12-21,Linia_B,Zmiana_2,Awaria,43
+2025-12-21,Linia_C,Zmiana_2,Brak materiału,49
+2025-12-21,Linia_C,Zmiana_2,Awaria,59
+2025-12-21,Linia_C,Zmiana_3,Awaria,53
+2025-12-22,Linia_A,Zmiana_1,Przezbrojenie,37
+2025-12-22,Linia_A,Zmiana_2,Przezbrojenie,33
+2025-12-22,Linia_A,Zmiana_2,Przezbrojenie,23
+2025-12-22,Linia_B,Zmiana_2,Brak materiału,47
+2025-12-22,Linia_B,Zmiana_2,Przezbrojenie,14
+2025-12-22,Linia_B,Zmiana_3,Przezbrojenie,6
+2025-12-22,Linia_B,Zmiana_3,Awaria,26
+2025-12-22,Linia_C,Zmiana_1,Awaria,7
+2025-12-22,Linia_C,Zmiana_1,Przezbrojenie,54
+2025-12-23,Linia_A,Zmiana_3,Przezbrojenie,26
+2025-12-23,Linia_A,Zmiana_3,Brak materiału,9
+2025-12-23,Linia_B,Zmiana_2,Brak materiału,27
+2025-12-23,Linia_B,Zmiana_2,Awaria,18
+2025-12-23,Linia_C,Zmiana_1,Brak materiału,33
+2025-12-23,Linia_C,Zmiana_2,Przezbrojenie,9
+2025-12-23,Linia_C,Zmiana_3,Przezbrojenie,24
+2025-12-24,Linia_A,Zmiana_1,Awaria,7
+2025-12-24,Linia_A,Zmiana_1,Przezbrojenie,14
+2025-12-24,Linia_A,Zmiana_2,Przezbrojenie,42
+2025-12-24,Linia_A,Zmiana_3,Przezbrojenie,31
+2025-12-24,Linia_A,Zmiana_3,Przezbrojenie,33
+2025-12-24,Linia_B,Zmiana_1,Brak materiału,24
+2025-12-24,Linia_B,Zmiana_1,Brak materiału,39
+2025-12-24,Linia_B,Zmiana_2,Brak materiału,19
+2025-12-24,Linia_B,Zmiana_3,Brak materiału,45
+2025-12-24,Linia_C,Zmiana_2,Brak materiału,52
+2025-12-24,Linia_C,Zmiana_2,Awaria,25
+2025-12-25,Linia_A,Zmiana_3,Przezbrojenie,21
+2025-12-25,Linia_B,Zmiana_1,Awaria,56
+2025-12-25,Linia_B,Zmiana_1,Przezbrojenie,25
+2025-12-25,Linia_B,Zmiana_2,Przezbrojenie,13
+2025-12-25,Linia_B,Zmiana_2,Przezbrojenie,31
+2025-12-25,Linia_B,Zmiana_3,Awaria,45
+2025-12-25,Linia_B,Zmiana_3,Przezbrojenie,46
+2025-12-25,Linia_C,Zmiana_2,Przezbrojenie,37
+2025-12-25,Linia_C,Zmiana_2,Brak materiału,50
+2025-12-25,Linia_C,Zmiana_3,Brak materiału,54
+2025-12-25,Linia_C,Zmiana_3,Przezbrojenie,7
+2025-12-26,Linia_A,Zmiana_1,Brak materiału,14
+2025-12-26,Linia_A,Zmiana_1,Awaria,22
+2025-12-26,Linia_A,Zmiana_3,Przezbrojenie,50
+2025-12-26,Linia_A,Zmiana_3,Awaria,46
+2025-12-26,Linia_B,Zmiana_1,Brak materiału,29
+2025-12-26,Linia_B,Zmiana_1,Brak materiału,43
+2025-12-26,Linia_B,Zmiana_2,Awaria,25
+2025-12-26,Linia_B,Zmiana_3,Przezbrojenie,44
+2025-12-26,Linia_C,Zmiana_1,Brak materiału,26
+2025-12-26,Linia_C,Zmiana_1,Brak materiału,15
+2025-12-26,Linia_C,Zmiana_2,Brak materiału,47
+2025-12-26,Linia_C,Zmiana_2,Awaria,58
+2025-12-26,Linia_C,Zmiana_3,Awaria,18
+2025-12-26,Linia_C,Zmiana_3,Brak materiału,42
+2025-12-27,Linia_A,Zmiana_2,Przezbrojenie,11
+2025-12-27,Linia_A,Zmiana_3,Awaria,39
+2025-12-27,Linia_A,Zmiana_3,Przezbrojenie,8
+2025-12-27,Linia_B,Zmiana_1,Awaria,46
+2025-12-27,Linia_B,Zmiana_1,Awaria,27
+2025-12-27,Linia_B,Zmiana_2,Przezbrojenie,56
+2025-12-27,Linia_B,Zmiana_3,Przezbrojenie,36
+2025-12-27,Linia_C,Zmiana_3,Przezbrojenie,43
+2025-12-27,Linia_C,Zmiana_3,Awaria,26
+2025-12-28,Linia_A,Zmiana_1,Przezbrojenie,20
+2025-12-28,Linia_A,Zmiana_1,Przezbrojenie,7
+2025-12-28,Linia_A,Zmiana_2,Przezbrojenie,41
+2025-12-28,Linia_A,Zmiana_2,Przezbrojenie,27
+2025-12-28,Linia_A,Zmiana_3,Przezbrojenie,52
+2025-12-28,Linia_A,Zmiana_3,Przezbrojenie,27
+2025-12-28,Linia_B,Zmiana_1,Przezbrojenie,41
+2025-12-28,Linia_B,Zmiana_2,Awaria,58
+2025-12-28,Linia_B,Zmiana_3,Przezbrojenie,55
+2025-12-28,Linia_C,Zmiana_1,Awaria,40
+2025-12-28,Linia_C,Zmiana_1,Brak materiału,38
+2025-12-28,Linia_C,Zmiana_2,Brak materiału,43
+2025-12-28,Linia_C,Zmiana_3,Awaria,13
+2025-12-28,Linia_C,Zmiana_3,Przezbrojenie,51
+2025-12-29,Linia_A,Zmiana_1,Awaria,46
+2025-12-29,Linia_A,Zmiana_1,Brak materiału,5
+2025-12-29,Linia_A,Zmiana_2,Awaria,33
+2025-12-29,Linia_B,Zmiana_1,Brak materiału,21
+2025-12-29,Linia_B,Zmiana_3,Awaria,57
+2025-12-29,Linia_B,Zmiana_3,Awaria,5
+2025-12-29,Linia_C,Zmiana_2,Awaria,36
+2025-12-29,Linia_C,Zmiana_2,Awaria,30
